@@ -1,0 +1,26 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    " AB",
+    " CA",
+    "AD "
+  ],
+  "key": {
+    "A": {
+      "item": "minecraft:oak_planks"
+    },
+    "B": {
+      "item": "minecraft:oak_log"
+    },
+    "C": {
+      "item": "minecraft:string"
+    },
+    "D": {
+      "item": "minecraft:stone"
+    }
+  },
+  "result": {
+    "item": "mccourse:metal_detector"
+  }
+}
