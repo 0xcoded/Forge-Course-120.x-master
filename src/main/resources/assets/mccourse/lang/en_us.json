@@ -13,5 +13,7 @@
 
 
   "item.mccourse.metal_detector.no_valuables": "No values found!",
-  "item.mccourse.metal_detector": "Metal detector"
+  "item.mccourse.metal_detector": "Metal detector",
+
+  "item.mccourse.sound_block": "Musical"
 }
