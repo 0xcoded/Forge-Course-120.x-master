@@ -14,6 +14,8 @@
 
   "item.mccourse.metal_detector.no_valuables": "No values found!",
   "item.mccourse.metal_detector": "Metal detector",
+  "item.mccourse.kohlrabi": "Kohl Rabi!",
+  "item.mccourse.peat_brick": "Peat Brick",
 
-  "item.mccourse.sound_block": "Musical"
+  "block.mccourse.sound_block": "Musical"
 }

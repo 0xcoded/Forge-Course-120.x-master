@@ -6,7 +6,9 @@ import net.minecraftforge.registries.DeferredRegister;
 import net.minecraftforge.registries.ForgeRegistries;
 import net.minecraftforge.registries.RegistryObject;
 import net.picopala963.mccourse.MCCourseMod;
+import net.picopala963.mccourse.item.custom.FuelItem;
 import net.picopala963.mccourse.item.custom.MetalDetectorItem;
+import net.picopala963.mccourse.item.custom.ModFoodProperties;
 
 public class ModItems {
     public static final DeferredRegister<Item> ITEMS =
@@ -22,8 +24,14 @@ public class ModItems {
     public static final RegistryObject<Item> METAL_DETECTOR = ITEMS.register("metal_detector",
             () -> new MetalDetectorItem(new Item.Properties().durability(512)));
 
-    public static final RegistryObject<Item> KOHLRABI = ITEMS.register("raw_alexandrite",
-            () -> new Item(new Item.Properties()));
+    public static final RegistryObject<Item> KOHLRABI = ITEMS.register("kohlrabi",
+            () -> new Item(new Item.Properties().food(ModFoodProperties.KOHLRABI)));
+
+    public static final RegistryObject<Item> PEAT_BRICK = ITEMS.register("peat_brick",
+            () -> new FuelItem(new Item.Properties(),500));
+
+
+
 
 
     public static void register(IEventBus eventBus) {

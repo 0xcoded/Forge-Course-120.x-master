@@ -9,6 +9,7 @@ import net.minecraftforge.registries.DeferredRegister;
 import net.minecraftforge.registries.RegistryObject;
 import net.picopala963.mccourse.MCCourseMod;
 import net.picopala963.mccourse.block.ModBlocks;
+import net.picopala963.mccourse.item.custom.FuelItem;
 
 public class ModCreativeModeTab {
 
@@ -29,6 +30,9 @@ public class ModCreativeModeTab {
                         output.accept(ModBlocks.NETHER_ALEXANDRITE_ORE.get());
                         output.accept(ModBlocks.RAW_ALEXANDRITE_BLOCK.get());;
                         output.accept(ModItems.METAL_DETECTOR.get());
+                        output.accept(ModBlocks.SOUND_BLOCK.get());
+                        output.accept(ModItems.KOHLRABI.get());
+                        output.accept(ModItems.PEAT_BRICK.get());
 
 
                     })
