@@ -17,5 +17,10 @@
   "item.mccourse.kohlrabi": "Kohl Rabi!",
   "item.mccourse.peat_brick": "Peat Brick",
 
-  "block.mccourse.sound_block": "Musical"
+  "block.mccourse.sound_block": "Musical",
+
+  "tooltip.mccourse.metal_detector.tooltip.shift": "Right click on blocks to find ores down!",
+  "tooltip.mccourse.metal_detector.tooltip": "§eShift§f for more",
+  "tooltip.mccourse.sound_block.tooltip.shift": "Right or Left click to play sound. Sneak to place block. Can be used as entity alarm",
+  "tooltip.mccourse.sound_block.tooltip": "§eShift§f for more"
 }
