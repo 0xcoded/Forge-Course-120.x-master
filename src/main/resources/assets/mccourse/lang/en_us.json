@@ -14,13 +14,14 @@
 
   "item.mccourse.metal_detector.no_valuables": "No values found!",
   "item.mccourse.metal_detector": "Metal detector",
-  "item.mccourse.kohlrabi": "Kohl Rabi!",
-  "item.mccourse.peat_brick": "Peat Brick",
 
-  "block.mccourse.sound_block": "Musical",
-
-  "tooltip.mccourse.metal_detector.tooltip.shift": "Right click on blocks to find ores down!",
-  "tooltip.mccourse.metal_detector.tooltip": "§eShift§f for more",
-  "tooltip.mccourse.sound_block.tooltip.shift": "Right or Left click to play sound. Sneak to place block. Can be used as entity alarm",
-  "tooltip.mccourse.sound_block.tooltip": "§eShift§f for more"
+  "block.mccourse.alexandrite_stairs": "Alexandrite stairs",
+  "block.mccourse.alexandrite_slab": "Alexandrite slab",
+  "block.mccourse.alexandrite_pressure_plate": "Alexandrite Pressure Plate",
+  "block.mccourse.alexandrite_button": "Alexandrite Button",
+  "block.mccourse.alexandrite_fence": "Alexandrite Fence",
+  "block.mccourse.alexandrite_fence_gate": "Alexandrite Fence Gate",
+  "block.mccourse.alexandrite_wall": "Alexandrite Wall",
+  "block.mccourse.alexandrite_door": "Alexandrite Door",
+  "block.mccourse.alexandrite_trapdoor": "Alexandrite Trapdoor"
 }
