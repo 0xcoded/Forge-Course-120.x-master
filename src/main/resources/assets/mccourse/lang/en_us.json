@@ -11,7 +11,6 @@
 
   "creativetab.couse_tab": "Couse Tab",
 
-
   "item.mccourse.metal_detector.no_valuables": "No values found!",
   "item.mccourse.metal_detector": "Metal detector",
 
@@ -23,5 +22,11 @@
   "block.mccourse.alexandrite_fence_gate": "Alexandrite Fence Gate",
   "block.mccourse.alexandrite_wall": "Alexandrite Wall",
   "block.mccourse.alexandrite_door": "Alexandrite Door",
-  "block.mccourse.alexandrite_trapdoor": "Alexandrite Trapdoor"
+  "block.mccourse.alexandrite_trapdoor": "Alexandrite Trapdoor",
+
+  "item.mccourse.alexandrite_axe": "Alexandrite Axe",
+  "item.mccourse.alexandrite_hoe": "Alexandrite Hoe",
+  "item.mccourse.alexandrite_pickaxe": "Alexandrite Pickaxe",
+  "item.mccourse.alexandrite_shovel": "Alexandrite Shovel",
+  "item.mccourse.alexandrite_sword": "Alexandrite Sword"
 }
